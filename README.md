@@ -29,15 +29,17 @@ I love solving problems with code and creating applications that are not only us
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+<!--
 ---
 
-"## 📈 My GitHub Stats
+## 📈 My GitHub Stats
 
 <p align="center">
   <img src="https://metrics.lecoq.io/NaviTK?template=classic" alt="NaviTK's GitHub Metrics" width="100%" />
-</p>"
+</p>
 
 ---
+-->
 
 ## 📂 Featured Projects
 
@@ -46,8 +48,6 @@ I love solving problems with code and creating applications that are not only us
 | 🥷 **Green Ninja** | 2D game built from scratch. CPU optimization. | [View Code](https://github.com/NaviTK/Green-Ninja) |
 | 🎲 **Scrabble** | Custom implementation with UI. | [View Code](https://github.com/NaviTK/Scrabble) |
 | 📡 **App Streaming** | REST Architecture & Backend. | [View Code](https://github.com/NaviTK/AppStreaming) |
-
-*Nota: Reemplaza "NOMBRE_DE_TU_REPO" por el nombre real de tus carpetas en GitHub.*
 
 ---
 
