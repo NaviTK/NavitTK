@@ -31,11 +31,11 @@ I love solving problems with code and creating applications that are not only us
 
 ---
 
-*## 📈 My GitHub Stats
+"## 📈 My GitHub Stats
 
 <p align="center">
   <img src="https://metrics.lecoq.io/NaviTK?template=classic" alt="NaviTK's GitHub Metrics" width="100%" />
-</p>*
+</p>"
 
 ---
 
