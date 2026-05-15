@@ -34,8 +34,7 @@ I love solving problems with code and creating applications that are not only us
 ## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaviTK&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaviTK&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://metrics.lecoq.io/NaviTK?template=classic" alt="NaviTK's GitHub Metrics" width="100%" />
 </p>
 
 ---
